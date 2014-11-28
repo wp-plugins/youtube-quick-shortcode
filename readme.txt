@@ -5,7 +5,7 @@ Requires at least: 3.7
 Tested up to: 4.0.1
 Stable tag: 1.0
 
-Makes embedding content from List.ly easier
+Embed clips from YouTube with least clicks possible
 == Description ==
 
 <strong>YouTube quick shortcode plugin contains</strong> -
