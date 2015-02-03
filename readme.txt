@@ -2,7 +2,7 @@
 Contributors: peeping4dsun
 Tags: youtube, embed, quick, shortcode
 Requires at least: 3.7
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 1.0
 
 Embed clips from YouTube with least clicks possible
@@ -38,4 +38,3 @@ The main purpose of the plugin is to save clicks when a Wordpress administrator 
 2. This is how the option page looks.
 
 == Changelog ==
-
